@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" alt="Audio Visual Studio Logo" width="220">
+  <img src="assets/logos/logo.png" alt="Audio Visual Studio Logo" width="220">
 </p>
 
 <h1 align="center">Audio Visual Studio</h1>
@@ -177,14 +177,6 @@ Primary editing workspace featuring playlist management, synchronized text overl
 Timeline-based editing interface for more detailed multimedia composition.
 
 ![Advanced](assets/screenshots/video-ver-advanced.png)
-
----
-
-### 🎥 Video Editing Workflow
-
-Alternative editing interface supporting video backgrounds and timeline composition.
-
-![Video](assets/screenshots/advanced.png)
 
 ---
 
