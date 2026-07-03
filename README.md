@@ -48,7 +48,7 @@ The project evolved through multiple iterations during development. The demos be
 # Preview
 
 <p align="center">
-  <img src="playlist-demo.gif" alt="Audio Visual Studio Demo">
+  <img src="assets\playlist-demo.gif" alt="Audio Visual Studio Demo">
 </p>
 
 ---
